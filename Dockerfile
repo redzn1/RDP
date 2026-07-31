@@ -1,4 +1,4 @@
-FROM dockurr/windows:tiny10
+FROM dockurr/windows:2022
 
 ENV USERNAME="Administrator"
 ENV PASSWORD="Redz132_"
