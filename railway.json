@@ -4,6 +4,6 @@
   },
   "deploy": {
     "restartPolicyType": "never",
-    "restartPolicyMaxRetries": 2
+    "restartPolicyMaxRetries": 3
   }
 }
