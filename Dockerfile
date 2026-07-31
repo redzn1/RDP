@@ -1,0 +1,10 @@
+FROM dockurr/windows:ltsc10
+
+ENV USERNAME="Administrator"
+ENV PASSWORD="Redz132_"
+ENV ENABLE_RDP="true"
+ENV RAM_SIZE="2G"
+ENV CPU_CORES="2"
+ENV AUTO_LOGIN="true"
+
+EXPOSE 3389
