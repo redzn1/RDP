@@ -1,4 +1,4 @@
-FROM dockurr/windows:ltsc10
+FROM dockurr/windows:tiny10
 
 ENV USERNAME="Administrator"
 ENV PASSWORD="Redz132_"
